@@ -30,7 +30,7 @@ main {
   align-items: center;
 }
 
-.question {
+#question_ {
   width: 100%;
   padding: 20px;
   font-size: 1.8rem;
@@ -39,6 +39,17 @@ main {
 }
 
 .btn {
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 1.7rem;
+  background: white;
+  color: black;
+  border-radius: 15px;
+}
+
+#result_ {
+  display: none;
   width: 100%;
   padding: 20px;
   margin-top: 20px;
